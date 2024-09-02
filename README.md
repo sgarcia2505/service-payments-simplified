@@ -1,7 +1,7 @@
 # Sistema de Pagamento Simples
 Serviço responsável por gerir transferências monetárias entre clientes.
 
-![](./documents/service-payment-simplified-flow.jpeg)
+![](./documents/service-payments-simplified-flow.jpeg)
 
 ## Modelagem de dados
 ![](./documents/service-payments-simplified-db.png)
